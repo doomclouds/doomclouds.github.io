@@ -1,2 +1,3 @@
 - v1.5.9 新增软件在线更新功能
 - v1.5.9.2 尝试gitee失败后切回github
+- v1.5.9.3 新增ini配置文件代替appsetting.yml内的全局配置
